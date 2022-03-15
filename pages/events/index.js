@@ -1,9 +1,9 @@
-
+import Layout from "../../components/Layout"
 export default function indexPage() {
   return (
-    <div>
+    <Layout title="">
         <h1>index</h1>
-    </div>
+    </Layout>
   )
 }
 
